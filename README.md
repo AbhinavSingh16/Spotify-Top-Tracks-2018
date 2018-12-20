@@ -1,5 +1,4 @@
-# literate-bassoon
-Top Track of 2018 on Spotify Analysis
+#Top Track of 2018 on Spotify Analysis
 
 At the end of every year Spotify compiles a playlist of the songs streamed most often over the course of that year. 
 
